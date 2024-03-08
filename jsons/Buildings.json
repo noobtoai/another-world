@@ -1,21 +1,18 @@
 [
 	{
 		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
+		"uniqueTo": "The hell",
+		"cost": 80,
 		"happiness": 12,
 		"culture": 12,
 		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"requiredTech": "Pottery",
+		"uniques": "Free technology"
 	},
 	{
 		"name": "Breeders",
 		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "The hell",
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
