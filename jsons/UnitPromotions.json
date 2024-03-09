@@ -1,0 +1,25 @@
+[
+	{
+		"name": "Wakanda Forever",
+		"uniques": ["Can move immediately once bought",
+			"[+15]% Strength <vs [Barbarian] units>",
+			"Uncapturable"]
+	},
+	{
+		"name": "Panther Eyes",
+		"uniques": ["Can see invisible [All] units"]
+	},
+  {
+		"name": "Breath",
+		"uniques": ["Can move after attacking",  "May capture killed [Military] units", "[+5] HP when healing"]
+	},
+  {
+		"name": "Spy",
+		"uniques": ["Uncapturable",  "Invisible to non-adjacent units","All tiles cost 0.5 movement"]
+	},
+  {
+		"name": "Berserker",
+		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles","[-30]% Strength for enemy [Military] units in adjacent [All] tiles"]
+	}
+  
+]
